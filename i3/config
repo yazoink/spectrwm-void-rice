@@ -8,7 +8,7 @@ font pango:basiic 12
 # autostart
 exec --no-startup-id dex --autostart --environment i3
 exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
-exec_always --no-startup-id feh --no-fehbg --bg-tile /home/gene/Pictures/112.png &
+exec_always --no-startup-id feh --no-fehbg --bg-tile wallpaper.png &
 exec_always --no-startup-id picom
 
 # volume control (depends on https://github.com/ericmurphyxyz/dotfiles/blob/master/.local/bin/changevolume)
