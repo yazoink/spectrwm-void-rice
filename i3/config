@@ -3,7 +3,7 @@
 set $mod Mod1
 
 # font
-font pango:basiic 12
+font pango:terminus 12
 
 # autostart
 exec --no-startup-id dex --autostart --environment i3
