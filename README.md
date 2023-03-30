@@ -1,6 +1,8 @@
 # dotfiles
 my void/i3 rice
 
+![screenshot](https://user-images.githubusercontent.com/98802603/228832443-cc2f6cfe-738c-4d1e-84a1-cb86b5a0cc1e.png)
+
 dependencies:
 - i3
 - dmenu
