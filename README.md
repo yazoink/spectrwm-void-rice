@@ -14,4 +14,4 @@ dependencies:
 
 other things:
 - <a href="https://www.gnome-look.org/p/1214931">flat remix gtk white darkest solid</a>
-- <a href="https://www.gnome-look.org/p/1920644">cde reborn icon theme</a>
+- <a href="https://www.pling.com/p/1239029/">learning to fly icon theme</a>
