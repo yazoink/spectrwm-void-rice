@@ -1,4 +1,4 @@
-# gene's i3 config ^___^
+# gene's i3 config :)
 
 set $mod Mod1
 
@@ -32,7 +32,7 @@ bindsym $mod+Shift+q kill
 bindsym $mod+q kill
 
 # run dmenu/rofi
-bindsym $mod+d exec --no-startup-id dmenu_run -nb '#000000' -sf '#FFFFFF' -sb '#373652' -nf '#FFFFFF' -fn 'terminus:regular:fontsize=12'
+#bindsym $mod+d exec --no-startup-id dmenu_run -nb '#000000' -sf '#FFFFFF' -sb '#373652' -nf '#FFFFFF' -fn 'terminus:regular:fontsize=12'
 bindsym Mod1+d exec "rofi -modi drun,run -show drun"
 
 # change focus
