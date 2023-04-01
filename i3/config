@@ -31,8 +31,9 @@ bindsym $mod+c exec ./Ripcord-0.4.29-x86_64.AppImage
 bindsym $mod+Shift+q kill
 bindsym $mod+q kill
 
-# run dmenu
+# run dmenu/rofi
 bindsym $mod+d exec --no-startup-id dmenu_run -nb '#000000' -sf '#FFFFFF' -sb '#373652' -nf '#FFFFFF' -fn 'terminus:regular:fontsize=12'
+bindsym Mod1+d exec "rofi -modi drun,run -show drun"
 
 # change focus
 bindsym $mod+Left focus left
