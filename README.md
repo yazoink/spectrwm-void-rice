@@ -4,7 +4,7 @@ my void/i3 rice
 ![screenshot](https://user-images.githubusercontent.com/98802603/228988226-830e8a13-a537-4119-8714-622cf5466fca.png)
 
 dependencies:
-- dmenu
+- rofi
 - picom
 - dunst
 - alacritty
