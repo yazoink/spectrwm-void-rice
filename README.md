@@ -1,7 +1,7 @@
 # dotfiles
-my void/i3 rice
+my void/spectrwm rice
 
-![screenshot](https://user-images.githubusercontent.com/98802603/228988226-830e8a13-a537-4119-8714-622cf5466fca.png)
+![2023-06-09-134144_1366x768_scrot](https://github.com/yazoink/dotfiles/assets/98802603/ef09370d-a96d-4cda-a4a9-fbaa4d9e8ab8)
 
 dependencies:
 - rofi
@@ -9,8 +9,8 @@ dependencies:
 - dunst
 - alacritty
 - terminus font
-- <a href="https://github.com/ericmurphyxyz/dotfiles/blob/master/.local/bin/changevolume">volume control script</a>
+- thunar file manager
 
 other things:
-- <a href="https://www.gnome-look.org/p/1214931">flat remix gtk white darkest solid</a>
-- <a href="https://www.pling.com/p/1239029/">learning to fly icon theme</a>
+- <a href="https://www.pling.com/p/1013116/">PenOSmaster GTK theme</a>
+- <a href="https://github.com/grassmunk/Chicago95">Chicago95 cursor & icon theme</a>
